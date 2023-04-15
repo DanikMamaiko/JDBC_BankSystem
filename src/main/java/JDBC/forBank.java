@@ -58,6 +58,7 @@ public class forBank {
             System.out.println("end of program");
             System.out.println();
             System.out.println("2");
+            System.out.println("Init3");
 
         } catch (Exception e){
             e.printStackTrace();
