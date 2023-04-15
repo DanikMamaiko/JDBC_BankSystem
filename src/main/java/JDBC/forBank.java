@@ -56,6 +56,7 @@ public class forBank {
             preparedStatement.executeUpdate();
 
             System.out.println("end of program");
+            System.out.println();
 
         } catch (Exception e){
             e.printStackTrace();
